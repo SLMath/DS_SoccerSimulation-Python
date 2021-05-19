@@ -1,6 +1,6 @@
 # pandas-dataframe
 
-Studing Pandas library
+Studing Pandas library on Google Colab: https://colab.research.google.com/drive/11AtoRerCC5hk3q1E_PfhQ3Y1mCpzOhnM?usp=sharing
 
 This project is based on Flai's educational video: https://www.youtube.com/watch?v=uzMupNTNW8o
 
